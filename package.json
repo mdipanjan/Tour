@@ -1,0 +1,14 @@
+{
+  "name": "tour",
+  "version": "1.0.0",
+  "description": "Travel agency website",
+  "main": "app.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "mdipanjan",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.9.4"
+  }
+}
